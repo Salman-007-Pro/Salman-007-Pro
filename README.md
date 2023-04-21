@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hello 👋, I'm Muhammad Salman Asif
 
-###A passionate Javascript Frontend Developer (React, Vuejs, React native, Angular etc).
+### A passionate Javascript Frontend Developer (React, Vuejs, React native, Angular etc).
 
 - 🔭 I’m currently working on my own small projects and Large projects.
 - 🌱 I’m currently learning Typescript, Jest & Enzyme, React Testing Library, GraphQL & Design Pattern.
